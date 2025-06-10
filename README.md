@@ -3,6 +3,9 @@
 ## Overview:
 This project involves analyzing COVID-19 vaccination, hospitalization, testing, and daily case data using SQL queries. The dataset includes information on vaccination doses administered, hospitalizations, ICU patients, testing data, and daily cases across various states. The queries aim to extract meaningful insights and trends from the data.
 
+## Technologies Used:
+* **SQL** (specifically, queries are written to be broadly compatible, tested with a relational database system like **MySQL** using MySQL Workbench)
+
 ## Dataset Description:
 The project uses five main tables:
 
@@ -97,5 +100,5 @@ The project uses five main tables:
 - **Weekend Reporting Patterns**: Analyzed records reported on weekends to understand reporting patterns.
 
 ## Conclusion:
-This project demonstrates the use of SQL to analyze COVID-19 data, providing insights into vaccination trends, hospitalization rates, testing data, and daily cases. The findings highlight proactive states, critical days for healthcare systems, and trends in vaccination and hospitalization efforts. This portfolio showcases your ability to handle complex SQL queries and derive meaningful insights from real-world datasets.
+This project effectively demonstrates my proficiency in crafting complex SQL queries to extract meaningful, actionable insights from real-world, large-scale datasets. The findings shed light on critical aspects of the COVID-19 pandemic, including vaccination trends, hospitalization rates, and testing data, showcasing my ability to analyze data, identify key patterns, and contribute to data-driven decision-making. This portfolio piece highlights my analytical skills and readiness to tackle similar challenges in a professional data role.
 
